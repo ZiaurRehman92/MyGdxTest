@@ -24,8 +24,8 @@ public class MyGdx extends ApplicationAdapter implements InputProcessor {
 	public void create () {
 		batch = new SpriteBatch();
 		img = new Texture("badlogic.jpg");
-		textureAtlas =  new TextureAtlas(Gdx.files.internal("SpriteSheet/jet2.atlas"));
-		textureRegion= textureAtlas.findRegion("0001");
+		textureAtlas =  new TextureAtlas(Gdx.files.internal("SpriteSheet/jet.atlas"));
+		textureRegion= textureAtlas.findRegion("0002");
 		sprite=new Sprite(textureRegion);
 		sprite.setPosition(Gdx.graphics.getWidth()/2 - sprite.getWidth()/2,
 				Gdx.graphics.getHeight()/2 - sprite.getHeight()/2);
