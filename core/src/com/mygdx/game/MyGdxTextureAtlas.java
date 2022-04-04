@@ -12,7 +12,7 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.utils.ScreenUtils;
 
-public class MyGdx extends ApplicationAdapter implements InputProcessor {
+public class MyGdxTextureAtlas extends ApplicationAdapter implements InputProcessor {
 	SpriteBatch batch;
 	Texture img;
 	TextureAtlas textureAtlas;
