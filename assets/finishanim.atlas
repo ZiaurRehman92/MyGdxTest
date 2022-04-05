@@ -1,0 +1,59 @@
+
+finishanim.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+20 POINTS
+  rotate: false
+  xy: 1, 1923
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 2
+20 POINTS
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 3
+20 POINTS
+  rotate: false
+  xy: 1923, 1923
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 4
+20 POINTS
+  rotate: false
+  xy: 1923, 1
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 5
+
+finishanim2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+20 POINTS
+  rotate: false
+  xy: 1, 1923
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 6
+20 POINTS
+  rotate: false
+  xy: 1, 1
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 7
+20 POINTS
+  rotate: false
+  xy: 1923, 1923
+  size: 1920, 1920
+  orig: 1920, 1920
+  offset: 0, 0
+  index: 8
